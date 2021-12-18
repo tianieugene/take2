@@ -1,0 +1,166 @@
+ html {
+  line-height: 1.15;
+  /* 1 */
+  -ms-text-size-adjust: 100%;
+  /* 2 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */ }
+
+body{
+    background-color: white;
+    width: 100%;
+    height: cover;
+    background-size: 500%;
+    background-position: center center ;
+    border-radius: 5px;
+    color: #fff;
+    margin: auto;
+    
+
+    
+    
+    
+}
+.heading{
+    color: green;
+    text-align: center;
+    margin: 25px;
+    font-size: 1.8rem;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+    background-color: green;
+    font-size: 0.6rem;
+}
+ a:hover {
+  background-color: lightgreen;
+  color: #fff;
+}
+
+/* a:visited{
+    color: red;
+    text-decoration: none;
+    text-transform: lowercase;
+    font-stretch: 0.7em;
+}*/
+
+
+ a:active {
+  color: grey;
+  box-shadow: none;
+  background-color: #fff;
+  top: 5px;
+
+}
+.selector_home{
+    padding: 4px;
+    border-radius: 5px;
+
+}
+.selector_gallery{
+    padding: 4px;
+    border-radius: 5px;
+
+}
+.selector_contact{
+    padding: 4px;
+    border-radius: 5px;
+
+}
+.team{
+    background-color: #fff;
+    color: green;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.content{
+    height: 300%;
+    color: #fff;
+    text-align: center;
+    height: cover;
+    background-color: white;
+    margin: 2px;
+    margin-top: 0;
+    padding: 20px;
+
+
+}
+h3 {
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    font-family: simplifica Sans-Serif;
+    font-size: 1rem;
+    font-weight: bolder;
+    margin: auto;
+    margin-left: 30px;
+    margin-top: 5px;
+    position: relative;
+
+}
+.logo-container{
+    width: 98%;
+    border: solid 5px green;
+    border-radius: 5px;
+    height: cover;
+    background: white;
+    margin: auto;
+    margin-top: 5px;
+
+}
+.logo{
+    width: 20%;
+    margin: 2px;
+    margin-left: 10px;
+    
+}
+.vid{
+    margin-bottom: 5px;
+    height: 10px;
+    text-align: center;
+    
+}
+.image{
+    border-radius: 5px;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    background-color: #000;
+    
+}
+.sector{
+    width: 90%;
+    padding: 20px;
+    border: solid 2px green;
+     border-radius: 5px;
+    margin: auto;
+    margin-bottom: 20px;
+margin-top: 20px;
+    background: linear-gradient(-165deg, black, green,black);
+    text-align: center;
+    
+}
+.links{
+    width: 95%;
+    margin: 2px auto 2px auto;
+    height: cover;
+    color: #000 ;
+    text-align: center;
+    
+}
+.clients{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    margin: 5px;
+}
+.contact{
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    margin: 5px;
+}
